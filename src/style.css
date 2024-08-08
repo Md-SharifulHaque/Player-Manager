@@ -1,0 +1,33 @@
+#players div h3{
+    text-align: center;
+}
+
+#players > div, #costs > div {
+    min-height: 371px;
+    background-color: #0D0D0D;
+    text-align: center;
+}
+
+#players div h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+input {
+    background-color: #0D0D0D;
+    border: 2px solid #ccc;
+    max-width: 121px;
+}
+
+hr {
+    border: 2px solid #f97316;
+}
+
+button {
+    font-weight: 700;
+    background-color: #015196;
+}
+
+button:disabled {
+    background-color: #aaa
+}
